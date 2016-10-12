@@ -1,0 +1,33 @@
+Allen Roush 
+CIS 451: Database Systems 
+10/6/16
+MySQL Assignment 1 
+
+
+
+A. Stores7 database 
+    1. SELECT fname, lname, company FROM customer WHERE company REGEXP 'Sports$' OR company REGEXP 'Sport$'
+
+    2. SELECT c.fname, c.lname, c.city, c.state, s.description FROM customer c JOIN orders o ON c.customer_num = o.customer_num JOIN items i on o.order_num = i.order_num JOIN stock s ON i.stock_num = s.stock_num AND i.manu_code = s.manu_code JOIN manufact m ON s.manu_code = m.manu_code WHERE m.manu_name = "Smith"
+
+    3. SELECT s.sname, c.fname, c.lname  FROM state s LEFT OUTER JOIN customer c ON s.code = c.state
+
+B. company database 
+    1. SELECT DISTINCT e2.fname, e2.lname, w.hours, w.essn, p.pname FROM employee e JOIN project p ON e.dno = p.dnum JOIN works_on w ON p.pnumber = w.pno JOIN employee e2 ON w.essn = e2.ssn WHERE p.pname = "Computerization" AND w.hours >= 10
+
+    2. SELECT d2.dname, d.dependent_name FROM dependent d JOIN employee e ON d.essn = e.ssn RIGHT OUTER JOIN department d2 ON d2.dnumber = e.dno
+
+    3. SELECT CONCAT(e1.fname," ", e1.lname) AS supervisor_name, CONCAT(e2.fname, " ", e2.lname) AS supervises FROM employee e1 JOIN employee e2 on e1.ssn = e2.superssn
+
+C. Sakila 
+    1. SELECT c.first_name, c.last_name, f.title FROM customer c JOIN rental r USING(customer_id) JOIN inventory i ON r.inventory_id = i.inventory_id JOIN film_text f ON i.film_id = f.film_id WHERE year(r.rental_date) = 2005 AND month(r.rental_date) = 6
+
+    2. SELECT c.first_name, c.last_name, c.email FROM customer c 
+    JOIN rental r USING(customer_id) 
+    JOIN inventory i ON r.inventory_id = i.inventory_id 
+    JOIN film f ON i.film_id = f.film_id 
+    JOIN film_category f2 ON f.film_id = f2.film_id 
+    JOIN category c2 ON f2.category_id = c2.category_id 
+    WHERE f.rental_rate > 2 AND c2.name = "Family"
+
+    3. SELECT count(r.rental_date) FROM rental r JOIN inventory i ON r.inventory_id = i.inventory_id JOIN film f ON i.film_id = f.film_id WHERE f.title REGEXP 'TEEN'

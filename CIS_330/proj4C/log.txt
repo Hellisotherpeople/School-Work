@@ -1,0 +1,7 @@
+Blender: about to update image1
+Blender: done updating image1
+Blender: about to update image2
+Blender: done updating image2
+Blender: about to execute
+Blender: done executing
+Blender: Took : 0.287981 seconds to update

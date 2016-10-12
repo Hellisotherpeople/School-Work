@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      CIS330 C/C++ and Unix Lab &middot; CIS department | University of Oregon
+    
+  </title>
+
+  <link rel="stylesheet" href="styles.css">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="public/favicon.ico">
+  <link rel="alternate" type="application/atom+xml" title="CIS330 C/C++ and Unix Lab" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <div class="container content">
+      <header class="masthead">
+        <h3 class="masthead-title">
+          <a href="/" title="Home">CIS330 C/C++ and Unix Lab</a>
+          <small>CIS department | University of Oregon</small>
+        </h3>
+      </header>
+
+      <main>
+        <div class="posts">
+  
+  <article class="post">
+    <h1 class="post-title">
+      <a href="/2016/05/04/C++-Class/">
+        C++ Class
+      </a>
+    </h1>
+     
+    <time datetime="2016-05-04T00:00:00-07:00" class="post-date">04 May 2016 | Kewen Meng </time>
+
+    <h2 id="what-is-a-class">What is a class</h2>
+
+<blockquote>
+  <p>A class in C++ is used to specify the form of an object and it combines data representation and functions(methods) for manipulating that data into one neat package. The data and functions within a class are called members of the class</p>
+</blockquote>
+
+<h2 id="defining-a-class">Defining a Class</h2>
+
+<p>To define a class, keyword <strong>class</strong> must be used in the start following by class name and class body(enclosed by a pair of brackets). The body of class contains data and functions as well as their access modifier. A class definition must ended by a semicolon.</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="k">class</span> <span class="nc">class</span><span class="n">_name</span><span class="p">{</span>
+	<span class="n">access_modifier</span><span class="o">:</span>
+		<span class="n">member1</span><span class="p">;</span>
+		<span class="n">member2</span><span class="p">;</span>
+		<span class="p">...</span>
+	<span class="n">access_specifer</span><span class="o">:</span>
+		<span class="n">member3</span><span class="p">;</span>
+		<span class="n">member4</span><span class="p">;</span>
+		<span class="p">...</span>
+<span class="p">};</span></code></pre></figure>
+
+<p>Defining the rectangle class</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="k">class</span> <span class="nc">Rectangle</span><span class="p">{</span>
+	<span class="k">private</span><span class="o">:</span>
+		<span class="kt">int</span> <span class="n">width</span><span class="p">;</span>
+		<span class="kt">int</span> <span class="n">height</span><span class="p">;</span>		
+	
+	<span class="k">public</span><span class="o">:</span>
+		<span class="n">Rectangle</span><span class="p">();</span>
+		<span class="n">Rectangle</span><span class="p">(</span><span class="kt">int</span><span class="p">,</span> <span class="kt">int</span><span class="p">);</span>
+		<span class="kt">int</span> <span class="n">getWidth</span><span class="p">();</span>
+		<span class="kt">int</span> <span class="n">getHeight</span><span class="p">();</span>
+		<span class="kt">int</span> <span class="n">getArea</span><span class="p">();</span>
+<span class="p">};</span></code></pre></figure>
+
+<p>It is a good idea to separate interface from implementation. So put above code into a <strong>header</strong> file, and in the .C file we could implement the functions.</p>
+
+<p>For example, in Rectangle.C file, we have:</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="cp">#include&lt;Rectangle.h&gt;
+</span>
+<span class="kt">int</span> <span class="n">Rectangle</span><span class="o">::</span><span class="n">getWidth</span><span class="p">(){</span>
+	<span class="k">return</span> <span class="n">width</span><span class="p">;</span>	
+<span class="p">};</span>
+
+<span class="kt">int</span> <span class="n">Rectangle</span><span class="o">::</span><span class="n">getHeigth</span><span class="p">(){</span>
+	<span class="k">return</span> <span class="n">height</span><span class="p">;</span>	
+<span class="p">};</span>
+
+<span class="kt">int</span> <span class="n">Rectangle</span><span class="o">::</span><span class="n">getArea</span><span class="p">(){</span>
+	<span class="k">return</span> <span class="n">width</span> <span class="o">*</span> <span class="n">height</span><span class="p">;</span>	
+<span class="p">};</span></code></pre></figure>
+
+<p>Notes:</p>
+
+<ul>
+  <li>The class members are grouped by access modifier(different from Java)</li>
+  <li>Constructor must have the same name as class and no return type(same as Java)</li>
+</ul>
+
+<h2 id="access-modifier">Access modifier</h2>
+
+<p>Access modifier control the access level for class members. There are three access modifiers:</p>
+
+<ul>
+  <li>public	: members are accessible from anywhere where the object is visible</li>
+  <li>protected : members are accessible from other members of the same class (or from their “friends”), but also from members of their derived classes</li>
+  <li>private	: members of a class are accessible only from within other members of the same class (or from their “friends”)</li>
+</ul>
+
+<p>In the above example, since data members <strong>width</strong> and <strong>height</strong> are private, they can only be accessed by the getHeight and getWidth functions.</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="k">class</span> <span class="nc">Rectangle</span><span class="p">{</span>
+
+		<span class="kt">int</span> <span class="n">width</span><span class="p">;</span>
+		<span class="kt">int</span> <span class="n">height</span><span class="p">;</span>		
+	
+  	<span class="k">public</span><span class="o">:</span>
+		<span class="n">Rectangle</span><span class="p">();</span>
+		<span class="kt">int</span> <span class="n">getWidth</span><span class="p">();</span>
+		<span class="kt">int</span> <span class="n">getHeigt</span><span class="p">();</span>
+		<span class="kt">int</span> <span class="n">getArea</span><span class="p">();</span>
+<span class="p">};</span></code></pre></figure>
+
+<p>Note: the default access modifier for C++ class is <strong>private</strong> (it is the only difference bewteen C++ class and C++ struct)</p>
+
+<h2 id="constructor">Constructor</h2>
+
+<p>Constructor is a special function. It will be automatically called to initalize member data and allocate memory when a instance of the class is created.</p>
+
+<p>Let’s implement the constructors in rectangle class:</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="n">Rectangle</span><span class="o">::</span><span class="n">Rectangle</span><span class="p">(){</span>
+	<span class="c1">//printf("Initializing\n");
+</span>	<span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Initializing"</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="n">Rectangle</span><span class="o">::</span><span class="n">Rectangle</span><span class="p">(</span><span class="kt">int</span> <span class="n">x</span><span class="p">,</span> <span class="kt">int</span> <span class="n">y</span><span class="p">){</span>		<span class="c1">//two-args constructor
+</span>	<span class="n">width</span>  <span class="o">=</span> <span class="n">x</span><span class="p">;</span>
+	<span class="n">height</span> <span class="o">=</span> <span class="n">y</span><span class="p">;</span>
+	<span class="n">Rectangle</span><span class="p">();</span>						<span class="c1">//call no-arg constructor
+</span><span class="p">}</span></code></pre></figure>
+
+<p>Instead, data member can also be initialized like:</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="n">Rectangle</span><span class="o">::</span><span class="n">Rectangle</span><span class="p">(</span><span class="kt">int</span> <span class="n">x</span><span class="p">,</span> <span class="kt">int</span> <span class="n">y</span><span class="p">)</span> <span class="o">:</span> <span class="n">width</span><span class="p">(</span><span class="n">x</span><span class="p">),</span> <span class="n">height</span><span class="p">(</span><span class="n">y</span><span class="p">){</span>
+	<span class="c1">//printf("Initializing\n");
+</span>	<span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="s">"Initializing"</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
+
+<h2 id="creating-an-instance">Creating an instance</h2>
+
+<p>The following code shows two ways of creating an instance.</p>
+
+<figure class="highlight"><pre><code class="language-c--" data-lang="c++"><span class="cp">#include&lt;Rectangle.h&gt;
+#include&lt;iostream&gt;
+</span>
+<span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
+
+<span class="kt">int</span> <span class="n">main</span><span class="p">(){</span>
+	
+	<span class="c1">//create an instance on stack
+</span>	<span class="c1">//two-args constructor is called
+</span>	<span class="n">Rectangle</span> <span class="n">r</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">20</span><span class="p">);</span>
+
+	<span class="c1">//printf("Area is %d", r.getArea());
+</span>	<span class="c1">//if doesn't use namespace std
+</span>	<span class="c1">//the full format is 
+</span>	<span class="c1">//std::cout &lt;&lt; r.getArea()&lt;&lt; std::endl;
+</span>	<span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">r</span><span class="p">.</span><span class="n">getArea</span><span class="p">()</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+
+	<span class="c1">//dynamically allocated
+</span>	<span class="c1">//two-args constructor is called
+</span>	<span class="c1">//new keyword, C++ sytle of malloc
+</span>	<span class="n">Rectangle</span> <span class="o">*</span> <span class="n">pr</span> <span class="o">=</span> <span class="k">new</span> <span class="n">Rectangle</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span><span class="mi">30</span><span class="p">)</span>
+						
+	<span class="c1">//wrong, width is private
+</span>	<span class="c1">//printf("Width is %d", pr-&gt;width);
+</span>	<span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">pr</span> <span class="o">-&gt;</span> <span class="n">width</span> <span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+
+	<span class="c1">//can only be access by function
+</span>	<span class="c1">//printf("Width is %d", r.getWidth());						
+</span>	<span class="n">cout</span> <span class="o">&lt;&lt;</span> <span class="n">pr</span> <span class="o">-&gt;</span> <span class="n">getWidth</span><span class="p">()</span> <span class="o">&lt;&lt;</span> <span class="n">endl</span><span class="p">;</span>
+
+	<span class="c1">//IMPORTANT! free memory space
+</span>	<span class="c1">//delete keyword, C++ style of free
+</span>	<span class="k">delete</span> <span class="n">pr</span><span class="p">;</span>				
+
+<span class="p">}</span></code></pre></figure>
+
+<h2 id="lab-task">Lab task</h2>
+
+<p>Design two classes <strong>circle</strong> and <strong>triangle</strong>. class circle has a private data member radius(int), and triangle has two private data members bottom(int) and height(int). Add constructors and functions to get area of the instance. Your class definitions should go into <strong>header</strong> file and implementations into <strong>source(.C)</strong> file. In main.C, create an instance of circle with radius 5, and an instance of triangle with bottom 12, height 6. Print out should be in the following format:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">The radis of the circle is: 5, and area is 75</code></pre></figure>
+
+<hr />
+
+
+  </article>
+  
+  <article class="post">
+    <h1 class="post-title">
+      <a href="/2016/04/05/Shell-Script/">
+        Shell Script
+      </a>
+    </h1>
+     
+    <time datetime="2016-04-05T00:00:00-07:00" class="post-date">05 Apr 2016 | Kewen Meng </time>
+
+    <h2 id="what-is-a-script">What is a Script</h2>
+
+<blockquote>
+  <p>One handy thing you can do with the shell is to use standard UNIX commands as building blocks to create your own new commands. To do this, you write a `shell script’, which can contain a number of commands, and then the file can be executed as one command.</p>
+</blockquote>
+
+<h2 id="hello-world-in-shell-script">Hello World in shell script</h2>
+
+<p>Conventionally, a shellscript should start with the following line:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash</span></code></pre></figure>
+
+<p>This indicates that the scripts will be interpreted by bash shell.</p>
+
+<p>Now, let’s write script version of “hello world”.</p>
+
+<p>Use vi to create file named “hello” and type the following:</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+<span class="nb">echo</span> <span class="s2">"Hello, World"</span></code></pre></figure>
+
+<p>Execute the script by typing the following line in your shell.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">./hello</code></pre></figure>
+
+<p>If it doesn’t work, type the following line to grant access to your script(explain later).</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">chmod 755 hello</code></pre></figure>
+
+<p>It is easy, just like typing in the commandline directly. Now, use variable and add a command,</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+<span class="nb">echo</span> <span class="s2">"Hello, </span><span class="nv">$USER</span><span class="s2">"</span>
+ls <span class="c">#list files in current directory</span></code></pre></figure>
+
+<p>$USER is one standard variables defined by the shell, we don’t need to define it in the script.</p>
+
+<h2 id="create-directory-structure">Create directory structure</h2>
+
+<p>After the warm-up, let’s do somthing real.</p>
+
+<p>Think about how we create directory in shell.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash">mkdir <span class="nb">test
+</span>mkdir <span class="nb">test</span>/test2</code></pre></figure>
+
+<p>We could do the same in script.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+mkdir <span class="nb">test</span></code></pre></figure>
+
+<p>Run the script to see if it created a new directory.</p>
+
+<p>It’s time to practise. Create directory structure as the image shows</p>
+
+<p><img src="assets/hw.png" alt="Homework screenshot" /></p>
+
+<p>Ok, let’s start by creating directories first then files. Create a file named proj1b and typing.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+mkdir Dir1
+mkdir Dir1/Dir3
+mkdir Dir1/Dir3/Dir4
+mkdir Dir2</code></pre></figure>
+
+<p>Or, fancier way…</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+mkdir -p Dir1/Dir3/Dir4
+mkdir Dir2</code></pre></figure>
+
+<p>Or, much fancier way..</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+mkdir -p <span class="o">{</span>Dir1/Dir3/Dir4,Dir2<span class="o">}</span></code></pre></figure>
+
+<p>It is called expansion, refer <a href="http://linuxcommand.org/lc3_lts0080.php">here</a></p>
+
+<p>Let’s create files</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+touch Dir1/Dir3/Dir4/File3
+touch Dir1/Dir3/Dir4/File4
+touch Dir1/File1
+touch Dir2/FIle2</code></pre></figure>
+
+<h2 id="file-permission--access-mode-in-unix">File permission / Access mode in Unix</h2>
+
+<p>Every file in Unix has three permissions:</p>
+
+<ul>
+  <li>Owner permissions</li>
+  <li>Group permissions</li>
+  <li>Other (world) permissions</li>
+</ul>
+
+<blockquote>
+  <p>The basic building blocks of Unix permissions are the read, write, and execute permissions</p>
+</blockquote>
+
+<p>Please refer <a href="http://www.tutorialspoint.com/unix/unix-file-permission.htm">here</a> to know more about file permission and access mode.</p>
+
+<p>To change access permisson, use <strong>chmod</strong> command. For example in the above structure let’s change permission of Dir1 to 770.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+chmod 770 Dir1</code></pre></figure>
+
+<h2 id="thats-it">That’s it?</h2>
+
+<p>No, let’s make your script flexible by taking commandline argument so you could run you script like “./proj1b temp”</p>
+
+<p>Create a new file typing the following line and run it by “./filename arg1 arg2”.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#!/bin/bash
+</span>
+<span class="nb">echo</span> <span class="s2">"Positional Parameters"</span>
+<span class="nb">echo</span> <span class="s1">'$0 = '</span> <span class="nv">$0</span>
+<span class="nb">echo</span> <span class="s1">'$1 = '</span> <span class="nv">$1</span></code></pre></figure>
+
+<p>Find something? Yes, $1 represents the first argument and $2 for the second and so on.</p>
+
+<p>Let’s modify our script by reading one argument from commandline.</p>
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="c">#! /bin/bash
+</span>
+mkdir <span class="nv">$1</span>/Dir1
+mkdir <span class="nv">$1</span>/Dir1/Dir3
+mkdir <span class="nv">$1</span>/Dir1/Dir3/Dir4
+mkdir <span class="nv">$1</span>/Dir2</code></pre></figure>
+
+
+  </article>
+  
+</div>
+
+<div class="pagination">
+  
+    <span class="pagination-item older">Older</span>
+  
+  
+    <span class="pagination-item newer">Newer</span>
+  
+</div>
+
+      </main>
+
+      <footer class="footer">
+        <small>
+          Powered by <a href="https://jekyllrb.com">jekyll</a> | Theme based on poole | Kewen Meng
+        </small>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>

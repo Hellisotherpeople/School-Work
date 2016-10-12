@@ -1,0 +1,27 @@
+Allen Roush 
+Performance Analysis: 
+I used 0.50 for the blender factor (prompt didn't say which to use and I doubt it matters) 
+
+250x250 test 1: 0.010874 seconds
+test 2 : 0.00584 seconds 
+test 3 : 0.00728 seconds 
+
+So it usually takes under 0.01 seconds to run for this image size 
+
+500x500 test 1: 0.023256 seconds 
+test 2: 0.060201 seconds 
+test 3: 0.020410 seconds 
+
+So it's hovering around the 0.02 ~ 0.06 second mark to do it at this size
+
+1000x1000 test 1: 0.076433 seconds 
+test 2: 0.073061 seconds 
+test 3: 0.073729 seconds 
+
+Interestingly, the results all 3 times lined up very nicely at around ~ 0.075 seconds 
+
+2000x2000 test 1: 0.311923 seconds 
+test 2: 0.297818 seconds 
+test 3: 0.287981 seconds 
+
+This had the most rapid jump in time to complete the operation. going from the 1000x1000 test to this one had the time roughly triple or quadruple. I think that's because the blender operation is an O(N^2) algorithim (at least I think it is) 

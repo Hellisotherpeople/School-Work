@@ -1,0 +1,252 @@
+Begin execution 1Blender: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+Throwing exception: (LRConcat), LRConcat: heights must match: 672, 1344
+Caught exception in Execution1!Done with execution 1Begin execution 2Blender: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to execute
+Throwing exception: (LRConcat), LRConcat: no image2!
+Caught exception in Execution2!Done with execution 2Begin execution 3Blender: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Blender: done updating image1
+Blender: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+Blender: done updating image2
+Blender: about to execute
+Throwing exception: (Blender), Blender: factor is invalid: 1.200000
+Caught exception in Execution3!Done with execution 3Begin execution 4Blender: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Shrinker: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Blender: done updating image1
+Blender: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+Blender: done updating image2
+Blender: about to execute
+Blender: done executing
+No exception for Execution4!Done with execution 4

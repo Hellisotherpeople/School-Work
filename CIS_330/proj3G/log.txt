@@ -1,0 +1,26 @@
+Checkerboard: about to update image1
+LRConcat: about to update image1
+LRConcat: done updating image1
+LRConcat: about to update image2
+Invert: about to update image1
+Transpose: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+Transpose: done updating image1
+Transpose: about to execute
+Transpose: done executing
+Invert: done updating image1
+Invert: about to execute
+Invert: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+Checkerboard: done updating image1
+Checkerboard: about to update image2
+Checkerboard: done updating image2
+Checkerboard: about to execute
+Checkerboard: done executing

@@ -1,0 +1,5968 @@
+Entered program from zhuojun
+TBConcat: about to update image1
+Shrinker: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: done updating image1
+LRConcat: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: done updating image1
+LRConcat: about to update image2
+PNMreader: about to execute
+PNMreader: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+Shrinker: done updating image1
+Shrinker: about to execute
+Shrinker: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+Crop: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+Checkerboard: about to update image1
+Crop: about to update image1
+TBConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image2
+LRConcat: about to execute
+LRConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+LRConcat: about to update image1
+LRConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+LRConcat: done updating image1
+LRConcat: about to update image2
+TBConcat: about to update image1
+TBConcat: about to update image1
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+TBConcat: about to update image1
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Crop: about to update image1
+PNMreader: about to execute
+PNMreader: done executing
+Crop: done updating image1
+Crop: about to execute
+Crop: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image2
+TBConcat: about to execute
+TBConcat: done executing
+TBConcat: done updating image1
+TBConcat: about to update image2
+Throwing exception: (TBConcat), TBConcat: too many updates!
